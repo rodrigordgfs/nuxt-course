@@ -1,6 +1,5 @@
 <template>
   <div>
-    <p>iPhone {{ name }}</p>
   </div>
 </template>
 

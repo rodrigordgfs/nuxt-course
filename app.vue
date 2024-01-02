@@ -1,7 +1,5 @@
 <template>
-  <div>Hello World</div>
-  <Counter />
+  <NuxtPage />
 </template>
 
-<script setup>
-</script>
+<script setup></script>

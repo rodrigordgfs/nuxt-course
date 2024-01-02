@@ -1,9 +1,9 @@
 <template>
-  <div>
+  <nav class="flex flex-row gap-2 bg-purple-700 text-white text-2xl p-3">
     <NuxtLink v-for="route in routes" :to="route.path">{{
       route.name
     }}</NuxtLink>
-  </div>
+  </nav>
 </template>
 
 <script setup>

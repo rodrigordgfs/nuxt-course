@@ -1,6 +1,5 @@
 <template>
-  <div>Hello World</div>
-  <Counter />
+  Home
 </template>
 
 <script setup></script>
